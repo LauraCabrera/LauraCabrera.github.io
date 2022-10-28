@@ -6,7 +6,12 @@ permalink: /Projects/
 
 ## Current projects
 
-TBA
+### In-situ inference and automatic analysis of social interactions
+
+A lot of research is currently done regarding automatic analysis of social behavior and social interactions. To do so,  computing is generally done offline or using servers with high computing capabilities, leveraging the extensive field of machine learning. Nonetheless, not all applications and problems have the option of accessing such powerful computing resources.
+
+Particularly for in-situ monitoring of people during their day-to-day activities, issues such as accesibility, communication latency and privacy preservation are real concerns for the deployment of initiatives based on machine learning.
+
 
 ## Previous projects
 
