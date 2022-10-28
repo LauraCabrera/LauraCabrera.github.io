@@ -24,7 +24,7 @@ The ALARM (Alarm-Limiting AlgoRithm-based Monitoring) project consisted of model
 
 The project aims to develop new monitoring techniques for improved and efficient diagnosis, but also leveragin data mining approaches to reduce the high number of alarms in the intensive care environment (neonatal and adult ICU) in order to increase patient safety and reduce alarm fatigue of the staff.  Neonates infants are a particualrly vulnerable population, and improving monitoring of maturation of neonates is important to predict patient outcome.
 
-The project is lead by Dr. Carola van Pul ([contact](https://www.tue.nl/en/research/researchers/carola-van-pul/)).
+The project was lead by Dr. Carola van Pul ([contact](https://www.tue.nl/en/research/researchers/carola-van-pul/)).
 
 ### Multimodal detection of gestures in-the-wild
 
