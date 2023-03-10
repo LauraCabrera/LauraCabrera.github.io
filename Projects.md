@@ -12,7 +12,7 @@ A lot of research is currently done regarding automatic analysis of social behav
 
 Particularly for in-situ monitoring of people during their day-to-day activities, issues such as accesibility, communication latency and privacy preservation are real concerns for the deployment of initiatives based on machine learning techniques.
 
-This line of research, aims to exploit optimization techniques in the ML algorithms to reduce computing costs (i.e. memory and computing time) without impacting significantly the performance, as well as optimization of the software and hardware of the computing devices, to enable machine learning methods to be deployed for in-situ devices. As the first step of this research line, we are working on a project for in-situ detection of crowdeness using low-resource devices, approved and financed via grant by the [Instituto Tecnológico de Costa Rica (TEC)](https://www.tec.ac.cr/en).
+This line of research aims to exploit optimization techniques in the ML algorithms to reduce computing costs (i.e. memory and computing time) without impacting significantly the performance, as well as optimization of the software and hardware of the computing devices. These will enable machine learning methods to be deployed for in-situ devices. As the first step of this research line, we are working on a project for in-situ detection of crowdeness using low-resource devices, approved and financed via grant by the [Instituto Tecnológico de Costa Rica (TEC)](https://www.tec.ac.cr/en).
 
 ## Previous projects
 
