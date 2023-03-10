@@ -10,7 +10,7 @@ Previously, I worked as a postdoctoral researcher in the [Eindhoven University o
 
 ## Research
 
-My research focus on the use of machine learning and non-invasive technologies, such as wearable and embedded devices, video cameras or physiological sensors; to understand human social behavior, monitor health, and overall improve people's quality of life. I love to work in the interdisciplinary world that fuses hardware with software, and is motivated by social or natural sciences (e.g. medicine or psychology).
+My research focuses on the use of machine learning and non-invasive technologies, such as wearable and embedded devices, video cameras or physiological sensors; to understand human social behavior, monitor health, and overall improve people's quality of life. I love to work in the interdisciplinary world that fuses hardware with software, and is motivated by social or natural sciences (e.g. medicine or psychology).
 
 ## Education
 
