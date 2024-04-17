@@ -10,7 +10,7 @@ layout: home
 
 <img style="float: left;" src="img/laura_pic.jpg" width="160"/>
 
-I am an assistant professor at the [Costa Rican Institute of Technology](https://tec.ac.cr/en) or TEC (Tecnológico de Costa Rica), working in the Electronics Engineering department.
+I am an associate professor at the [Costa Rican Institute of Technology](https://tec.ac.cr/en) or TEC (Tecnológico de Costa Rica), working in the Electronics Engineering department.
 My research focuses on the use of machine learning and non-invasive technologies (e.g. wearable and embedded devices, cameras, physiological sensors) to understand human behavior, monitor health, and improve people's quality of life.
 
 <!---I received my PhD. in Computer Science from the [Delft University of Technology](https://www.tudelft.nl/en/) (The Netherlands), working in the [Socially Perceptive Computing Lab](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/socially-perceptive-computing-lab) in the use of multimodal streams for automatic analysis of social interactions in-the-wild;  and a Master in Electronical Engineering with emphasis in Embedded Systems from the TEC (Costa Rica).
