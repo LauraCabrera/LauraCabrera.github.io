@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am an assistant professor at the [Costa Rican Institute of Technology](https://tec.ac.cr/en) or TEC (Tecnológico de Costa Rica), working in the Electronics Engineering department.
+I am an associate professor at the [Costa Rican Institute of Technology](https://tec.ac.cr/en) or TEC (Tecnológico de Costa Rica), working in the Electronics Engineering department.
 
 Previously, I worked as a postdoctoral researcher in the [Eindhoven University of Technology](https://www.tue.nl/en/)(The Netherlands) where I was involved in the ALARM Project from [e\MTIC](https://www.tue.nl/en/research/research-groups/eindhoven-medtech-innovation-center/). This project was a collaboration with the [Maxima Medical Center](https://www.mmc.nl/) and [Philips research](https://www.philips.com/a-w/research/locations/eindhoven.html). I also worked as a post-doctoral researcher in the [Socially Perceptive Computing Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/socially-perceptive-computing-lab/) in TU Delft (The Netherlands), where I am currently a guest researcher.
 
