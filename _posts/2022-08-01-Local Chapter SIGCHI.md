@@ -6,4 +6,5 @@ categories: jekyll update
 ---
 
 
-We finally had the time and number of people to create the [SIGCHI Local Chapter Costa Rica](https://sigchicostarica.acm.org/). I'm currently the chair for it and we are planning great thing for the end of the year.
+We finally had the time and number of people to create the [SIGCHI Local Chapter Costa Rica](https://sigchicostarica.acm.org/). I'm currently the chair for it and we are planning great things for the end of the year.
+s
