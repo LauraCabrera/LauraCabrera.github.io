@@ -6,9 +6,30 @@ permalink: /publications/
 
 Following is a list of (selected) publications. You can also find my Google Scholar profile [here](https://scholar.google.com/citations?user=J1nEYGcAAAAJ).
 
+### 2024
+
+*  Carolina Fuentes, Iyubanit Rodríguez, Gabriela Cajamarca, **Laura Cabrera-Quiros**, Andrés Lucero, Valeria Herskovic, and Kenton O'Hara. "Opportunities and challenges of emerging human-AI interactions to support healthcare in the Global South." In Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing.
+
+* Vishal Sharma, Christianah Titilope Oyewale, Eldy S. Lazaro Vasquez, Asra Sakeen Wani, Eunice Sari, Joycelyn Longdon, **Laura Cabrera-Quiros**, and Pushpendra Singh. "Sustainabilities and HCIs from the Souths." In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 2024.
+
+### 2023
+
+* Jose Vargas-Quiros, **Laura Cabrera-Quiros**, Catharine Oertel, and Hayley Hung. "Impact of annotation modality on label quality and model performance in the automatic assessment of laughter in-the-wild." IEEE Transactions on Affective Computing, 2023.
+
+### 2022
+
+* Jose Vargas-Quiros, Stephanie Tan, Chirag Raman, **Laura Cabrera-Quiros**, and Hayley Hung. "Covfee: an extensible web framework for continuous-time annotation of human behavior." In Understanding social behavior in dyadic and small group interactions, pp. 265-293. PMLR, 2022.
+
+
+### 2021
+
+* G. Varisco, H. van de Mortel, **L. Cabrera‐Quiros**, L. Atallah, D. Hueske‐Kraus, X. Long, E.J Cottaar, Z. Zhan, P. Andriessen, C. van Pul. "Optimisation of clinical workflow and monitor settings safely reduces alarms in the NICU". Acta Paediatrica. 2021
+
+* **Laura Cabrera-Quiros**, D. Kommers, MK Wolvers, L. Oosterwijk, N. Arents, J. van der Sluijs-Bens, E.J. Cottaar, P. Andriessen and C. van Pul. "Prediction of late-onset sepsis in preterm infants using monitoring signals and machine learning". Critical care explorations. 2021
+
 ### 2020
 
-* **Laura Cabrera-Quiros**, Gabriele Varisco, Zhuozhao Zhan, Xi Long, Peter Andriessen, Ward Cottaar and Carola van Pul. *Estimation of Heart Rate Directly from ECG Spectrogram in Neonate Intensive Care Units*. 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). July, 2020.
+* **L. Cabrera-Quiros**, Gabriele Varisco, Zhuozhao Zhan, Xi Long, Peter Andriessen, Ward Cottaar and Carola van Pul. *Estimation of Heart Rate Directly from ECG Spectrogram in Neonate Intensive Care Units*. 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). July, 2020.
 
 ### 2019
 
