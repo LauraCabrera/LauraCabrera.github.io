@@ -33,8 +33,6 @@ Following is a list of (selected) publications. You can also find my Google Scho
 
 ### 2019
 
-* Gabriele Varisco, Heidi van de Mortel, **Laura Cabrera-Quiros**, NL Louis Atallah, Dirk Hueske-Kraus, Xi Long, Ward Cottaar, Deedee Kommers, Thilo Mohns, Peter Andriessen, and Carola van Pul. *Relevance of waveform information displayed on nurses' handheld devices in a single-family room neonatal intensive care unit*. The 3rd Congress of joint European Neonatal Societies. 
-
 * **Laura Cabrera-Quiros**, Ekin Gedik and Hayley Hung. Multimodal self-assessed personality estimation during crowded mingle scenarios using wearables devices and cameras. IEEE Transactions on Affective Computing. July 2019. [Download link](https://ieeexplore.ieee.org/abstract/document/8769877).
 
 * **Laura Cabrera-Quiros**, David MJ Tax and Hayley Hung. *Gestures in-the-wild: detecting conversational hand gestures in crowded scenes using a multimodal fusion of bags of video trajectories and body worn acceleration*. IEEE Transactions on Multimedia. June, 2019. [Download link](https://ieeexplore.ieee.org/abstract/document/8734888).
@@ -47,13 +45,7 @@ Following is a list of (selected) publications. You can also find my Google Scho
 
 * Ekin Gedik, **Laura Cabrera-Quiros**, Claudio Martella, Gwenn Englebienne, Hayley Hung.  *Towards Analyzing and Predicting the Experience of Live Performances with Wearable Sensing*. IEEE Transactions on Affective Computing. October, 2018. [Download link](https://pure.tudelft.nl/portal/files/47764098/47764014_08493261.pdf).
 
-* Pablo Alvarado-Moya, **Laura Cabrera**, Sietse Dijkstra and Francisco Aguilar. *Imaging systems and methods*. US Patent App. October, 2018. [Download link](https://patentimages.storage.googleapis.com/89/66/a4/27030506c56648/US10091418.pdf).
-
 * **Laura Cabrera-Quiros**, Andrew Demetriou, Ekin Gedik, Leander van der Meij and Hayley Hung. *The MatchNMingle dataset: a novel multi-sensor resource for the analysis of social interactions and group dynamics in-the-wild during free-standing conversations and speed dates*. IEEE Transactions on Affective Computing. June, 2018. [Paper link](https://ieeexplore.ieee.org/abstract/document/8395003). [Dataset link](http://matchmakers.ewi.tudelft.nl/matchnmingle/pmwiki/).
-
-* **Laura Cabrera-Quiros**, Ekin Gedik and Hayley Hung. *No-Audio Multimodal Speech Detection in Crowded Social Settings Task at MediaEval 2018*. MediaEval Benchmarking Initiative Workshop. October, 2018. [Paper link](https://pure.tudelft.nl/portal/files/50324359/47773175_MediaEval_18_paper_3.pdf). [Challenge link](http://www.multimediaeval.org/mediaeval2018/behave/).
-
-* **Laura Cabrera-Quiros**, Ekin Gedik and Hayley Hung. *Transductive Parameter Transfer, Bags of Dense Trajectories and MILES for No-Audio Multimodal Speech Detection*. Proceedings of the MediaEval Benchmarking Initiative Workshop. October, 2018. [Download link](http://ceur-ws.org/Vol-2283/MediaEval_18_paper_52.pdf).
 
 ### 2016
 
